@@ -5,4 +5,7 @@ int a = 2;
 int b = 6;
 int sum = a + b;
 Console.WriteLine("The sum of a and b:"+ sum);
-
+int a = 6;
+int b = 2;
+int sub = a - b;
+Console.WriteLine("The subtraction of a and b:"+ sub);
