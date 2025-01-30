@@ -13,3 +13,8 @@ int a = 3;
 int b = 2;
 int multiplication = a * b;
 Console.WriteLine("The multiplication of a and b:"+ multiplication);
+int a = 3;
+int b = 4;
+int division = a/b;
+Console.WriteLine("The division of a and b:"+division);
+
